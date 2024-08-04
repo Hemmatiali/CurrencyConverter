@@ -22,7 +22,7 @@ Clone the repository:
 
 ```bash
   git clone https://github.com/Hemmatiali/CurrencyConverter.git
-  cd currency-converter-dotnet8
+  cd CurrencyConverter
   dotnet build
   dotnet run
 ```
