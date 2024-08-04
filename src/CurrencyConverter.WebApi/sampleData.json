@@ -1,0 +1,134 @@
+[
+  {
+    "fromCurrency": {
+      "value": "USD"
+    },
+    "toCurrency": {
+      "value": "EUR"
+    },
+    "rate": {
+      "value": 0.98
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "EUR"
+    },
+    "toCurrency": {
+      "value": "USD"
+    },
+    "rate": {
+      "value": 1.02
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "GBP"
+    },
+    "toCurrency": {
+      "value": "JPY"
+    },
+    "rate": {
+      "value": 143.5
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "AUD"
+    },
+    "toCurrency": {
+      "value": "CNY"
+    },
+    "rate": {
+      "value": 5.25
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "CAD"
+    },
+    "toCurrency": {
+      "value": "NZD"
+    },
+    "rate": {
+      "value": 1.14
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "JPY"
+    },
+    "toCurrency": {
+      "value": "USD"
+    },
+    "rate": {
+      "value": 0.0092
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "CHF"
+    },
+    "toCurrency": {
+      "value": "EUR"
+    },
+    "rate": {
+      "value": 1.08
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "INR"
+    },
+    "toCurrency": {
+      "value": "USD"
+    },
+    "rate": {
+      "value": 0.014
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "CAD"
+    },
+    "toCurrency": {
+      "value": "EUR"
+    },
+    "rate": {
+      "value": 0.66
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "AUD"
+    },
+    "toCurrency": {
+      "value": "GBP"
+    },
+    "rate": {
+      "value": 0.56
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "USD"
+    },
+    "toCurrency": {
+      "value": "XYZ"
+    },
+    "rate": {
+      "value": 0.98
+    }
+  },
+  {
+    "fromCurrency": {
+      "value": "XYZ"
+    },
+    "toCurrency": {
+      "value": "IRR"
+    },
+    "rate": {
+      "value": 65
+    }
+  }
+]
